@@ -5,3 +5,5 @@ django-piston/
 *.egg-info
 scrumdo_web
 dist
+config.bat
+node_modules
